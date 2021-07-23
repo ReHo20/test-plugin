@@ -1,0 +1,8 @@
+{
+  "name": "ReHo20/test-plugin",
+  "description": "Demonstration of how to use composer within WordPress",
+  "type": "wordpress-muplugin",
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
